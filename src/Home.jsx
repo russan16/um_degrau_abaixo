@@ -21,6 +21,15 @@ export default () => {
                 <Box name={'Livre'} salary={value} percent={10} colorClass="bg-success"/>
                 <Box name={'Projetos/Investimento'} salary={value} percent={30} colorClass="bg-warning"/>
             </div>
+            <div className="mb-3">
+                <h4 className="text-light">Entendendo os valores</h4>
+                <small className="text-light">
+                    Se seu orçamento não cabe nos valores é que porque você já está vivendo um degrau acima.
+                    Repense nos seus gastos e veja o que pode ser feito.
+                    <br/>
+                    Fonte: <a className="text-light badge badge-primary bad" target="_blank" rel="noreferrer noopener" href="https://mepoupenaweb.uol.com.br/videos/regra-para-ter-dinheiro-viva-uma-degrau-abaixo-como-fazer-isso/">Me Poupe - Nathalia Arcuri</a>
+                </small>
+            </div>
             <div className="d-flex flex-row row">
                 <div className="col-12 col-md-6 col-lg-3 pb-4">
                     <div className="card">
