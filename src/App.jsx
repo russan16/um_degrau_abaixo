@@ -5,7 +5,7 @@ import Home from './Home';
 function App() {
   return (
     <section className="App min-vh-100 bg-dark">
-      <article className="container pt-5">
+      <article className="container py-5">
           <Home/>
       </article>
     </section>
