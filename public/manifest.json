@@ -1,6 +1,6 @@
 {
-  "name": "Viva um degrau abaixo",
-  "short_name": "Viva um degrau",
+  "name": "Calculadora - Viva um degrau abaixo",
+  "short_name": "Calculadora",
   "theme_color": "#343a40",
   "background_color": "#343a40",
   "display": "standalone",
