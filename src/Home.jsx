@@ -16,7 +16,7 @@ export default () => {
                 </div>
             </div>
             <div className="d-flex flex-row row">
-                <Box name={'Essêncial'} salary={value} percent={55} colorClass="bg-secondary"/>
+                <Box name={'Essêncial'} salary={value} percent={55} colorClass="bg-danger"/>
                 <Box name={'Educação'} salary={value} percent={5} colorClass="bg-primary"/>
                 <Box name={'Livre'} salary={value} percent={10} colorClass="bg-success"/>
                 <Box name={'Projetos/Investimento'} salary={value} percent={30} colorClass="bg-warning"/>
