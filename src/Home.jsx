@@ -24,7 +24,7 @@ export default () => {
             <div className="mb-3">
                 <h4 className="text-light">Entendendo os valores</h4>
                 <small className="text-light">
-                    Se seu orçamento não cabe nos valores é que porque você já está vivendo um degrau acima.
+                    Se seu orçamento não cabe nos valores é porque você já está vivendo um degrau acima.
                     Repense nos seus gastos e veja o que pode ser feito.
                     <br/>
                     Fonte: <a className="text-light badge badge-primary bad" target="_blank" rel="noreferrer noopener" href="https://mepoupenaweb.uol.com.br/videos/regra-para-ter-dinheiro-viva-uma-degrau-abaixo-como-fazer-isso/">Me Poupe - Nathalia Arcuri</a>
